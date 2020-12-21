@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fuse-native": "^2.2.6",
+    "sqlite3": "^5.0.0",
+    "xxhashjs": "^0.2.2"
+  }
+}
